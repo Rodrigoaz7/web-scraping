@@ -1,0 +1,296 @@
+{
+    "equipes": {
+        "GRE": {
+            "id": 1,
+            "sigla": "GRE",
+            "nome": "Grêmio"
+        },
+        "SAN": {
+            "id": 2,
+            "sigla": "SAN",
+            "nome": "Santos"
+        },
+        "CAM": {
+            "id": 3,
+            "sigla": "CAM",
+            "nome": "Atlético-MG"
+        },
+        "AVA": {
+            "id": 4,
+            "sigla": "AVA",
+            "nome": "Avaí"
+        },
+        "CEA": {
+            "id": 5,
+            "sigla": "CEA",
+            "nome": "Ceará"
+        },
+        "CSA": {
+            "id": 6,
+            "sigla": "CSA",
+            "nome": "CSA"
+        },
+        "PAL": {
+            "id": 7,
+            "sigla": "PAL",
+            "nome": "Palmeiras"
+        },
+        "FOR": {
+            "id": 8,
+            "sigla": "FOR",
+            "nome": "Fortaleza"
+        },
+        "SAO": {
+            "id": 9,
+            "sigla": "SAO",
+            "nome": "São Paulo"
+        },
+        "BOT": {
+            "id": 10,
+            "sigla": "BOT",
+            "nome": "Botafogo"
+        },
+        "FLA": {
+            "id": 11,
+            "sigla": "FLA",
+            "nome": "Flamengo"
+        },
+        "CRU": {
+            "id": 12,
+            "sigla": "CRU",
+            "nome": "Cruzeiro"
+        },
+        "FLU": {
+            "id": 13,
+            "sigla": "FLU",
+            "nome": "Fluminense"
+        },
+        "GOI": {
+            "id": 14,
+            "sigla": "GOI",
+            "nome": "Goiás"
+        },
+        "CHA": {
+            "id": 15,
+            "sigla": "CHA",
+            "nome": "Chapecoense"
+        },
+        "INT": {
+            "id": 16,
+            "sigla": "INT",
+            "nome": "Internacional"
+        },
+        "BAH": {
+            "id": 17,
+            "sigla": "BAH",
+            "nome": "Bahia"
+        },
+        "COR": {
+            "id": 18,
+            "sigla": "COR",
+            "nome": "Corinthians"
+        },
+        "CAP": {
+            "id": 19,
+            "sigla": "CAP",
+            "nome": "Athletico-PR"
+        },
+        "VAS": {
+            "id": 20,
+            "sigla": "VAS",
+            "nome": "Vasco"
+        }
+    },
+    "partidas": {
+        "0": {
+            "id": 1,
+            "time_mandante": "CAP",
+            "time_visitante": "VAS"
+        },
+        "1": {
+            "id": 2,
+            "time_mandante": "CSA",
+            "time_visitante": "PAL"
+        },
+        "2": {
+            "id": 3,
+            "time_mandante": "CSA",
+            "time_visitante": "SAN"
+        },
+        "3": {
+            "id": 4,
+            "time_mandante": "CAP",
+            "time_visitante": "BAH"
+        },
+        "4": {
+            "id": 5,
+            "time_mandante": "CAP",
+            "time_visitante": "COR"
+        },
+        "5": {
+            "id": 6,
+            "time_mandante": "CSA",
+            "time_visitante": "GOI"
+        },
+        "6": {
+            "id": 7,
+            "time_mandante": "CAP",
+            "time_visitante": "FLU"
+        },
+        "7": {
+            "id": 8,
+            "time_mandante": "CSA",
+            "time_visitante": "BOT"
+        },
+        "8": {
+            "id": 9,
+            "time_mandante": "CSA",
+            "time_visitante": "FLA"
+        },
+        "9": {
+            "id": 10,
+            "time_mandante": "CAP",
+            "time_visitante": "INT"
+        },
+        "10": {
+            "id": 11,
+            "time_mandante": "CSA",
+            "time_visitante": "CAP"
+        },
+        "11": {
+            "id": 12,
+            "time_mandante": "CSA",
+            "time_visitante": "GRE"
+        },
+        "12": {
+            "id": 13,
+            "time_mandante": "CAP",
+            "time_visitante": "SAO"
+        },
+        "13": {
+            "id": 14,
+            "time_mandante": "CSA",
+            "time_visitante": "FOR"
+        },
+        "14": {
+            "id": 15,
+            "time_mandante": "CAP",
+            "time_visitante": "CAM"
+        },
+        "15": {
+            "id": 16,
+            "time_mandante": "CSA",
+            "time_visitante": "CRU"
+        },
+        "16": {
+            "id": 17,
+            "time_mandante": "CAP",
+            "time_visitante": "CEA"
+        },
+        "17": {
+            "id": 18,
+            "time_mandante": "CSA",
+            "time_visitante": "CHA"
+        },
+        "18": {
+            "id": 19,
+            "time_mandante": "CAP",
+            "time_visitante": "AVA"
+        },
+        "19": {
+            "id": 20,
+            "time_mandante": "CSA",
+            "time_visitante": "CEA"
+        },
+        "20": {
+            "id": 21,
+            "time_mandante": "CAP",
+            "time_visitante": "FOR"
+        },
+        "21": {
+            "id": 22,
+            "time_mandante": "CAP",
+            "time_visitante": "CHA"
+        },
+        "22": {
+            "id": 23,
+            "time_mandante": "CSA",
+            "time_visitante": "AVA"
+        },
+        "23": {
+            "id": 24,
+            "time_mandante": "CSA",
+            "time_visitante": "INT"
+        },
+        "24": {
+            "id": 25,
+            "time_mandante": "CAP",
+            "time_visitante": "FLA"
+        },
+        "25": {
+            "id": 26,
+            "time_mandante": "CSA",
+            "time_visitante": "CAM"
+        },
+        "26": {
+            "id": 27,
+            "time_mandante": "CAP",
+            "time_visitante": "PAL"
+        },
+        "27": {
+            "id": 28,
+            "time_mandante": "CAP",
+            "time_visitante": "GOI"
+        },
+        "28": {
+            "id": 29,
+            "time_mandante": "CSA",
+            "time_visitante": "COR"
+        },
+        "29": {
+            "id": 30,
+            "time_mandante": "CAP",
+            "time_visitante": "CSA"
+        },
+        "30": {
+            "id": 31,
+            "time_mandante": "CAP",
+            "time_visitante": "CRU"
+        },
+        "31": {
+            "id": 32,
+            "time_mandante": "CSA",
+            "time_visitante": "VAS"
+        },
+        "32": {
+            "id": 33,
+            "time_mandante": "CAP",
+            "time_visitante": "BOT"
+        },
+        "33": {
+            "id": 34,
+            "time_mandante": "CSA",
+            "time_visitante": "FLU"
+        },
+        "34": {
+            "id": 35,
+            "time_mandante": "CAP",
+            "time_visitante": "GRE"
+        },
+        "35": {
+            "id": 36,
+            "time_mandante": "CSA",
+            "time_visitante": "BAH"
+        },
+        "36": {
+            "id": 37,
+            "time_mandante": "CAP",
+            "time_visitante": "SAN"
+        },
+        "37": {
+            "id": 38,
+            "time_mandante": "CSA",
+            "time_visitante": "SAO"
+        }
+    }
+}
