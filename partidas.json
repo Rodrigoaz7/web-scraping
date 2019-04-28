@@ -1,0 +1,3044 @@
+{
+    "partidas": {
+        "0": {
+            "idPartida": 1,
+            "time_mandante": "SAO",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "2",
+            "placar_time_visitante": "0",
+            "foiJogado": true
+        },
+        "1": {
+            "idPartida": 1,
+            "time_mandante": "CAM",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "2",
+            "placar_time_visitante": "1",
+            "foiJogado": true
+        },
+        "2": {
+            "idPartida": 1,
+            "time_mandante": "CHA",
+            "time_visitante": "INT",
+            "placar_time_mandante": "2",
+            "placar_time_visitante": "0",
+            "foiJogado": true
+        },
+        "3": {
+            "idPartida": 1,
+            "time_mandante": "FLA",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "3",
+            "placar_time_visitante": "1",
+            "foiJogado": true
+        },
+        "4": {
+            "idPartida": 1,
+            "time_mandante": "GRE",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "1",
+            "placar_time_visitante": "2",
+            "foiJogado": true
+        },
+        "5": {
+            "idPartida": 1,
+            "time_mandante": "CEA",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "6": {
+            "idPartida": 1,
+            "time_mandante": "BAH",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "7": {
+            "idPartida": 1,
+            "time_mandante": "CAP",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "8": {
+            "idPartida": 1,
+            "time_mandante": "PAL",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "9": {
+            "idPartida": 1,
+            "time_mandante": "FLU",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "10": {
+            "idPartida": 2,
+            "time_mandante": "INT",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "11": {
+            "idPartida": 2,
+            "time_mandante": "COR",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "12": {
+            "idPartida": 2,
+            "time_mandante": "CSA",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "13": {
+            "idPartida": 2,
+            "time_mandante": "CRU",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "14": {
+            "idPartida": 2,
+            "time_mandante": "AVA",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "15": {
+            "idPartida": 2,
+            "time_mandante": "FOR",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "16": {
+            "idPartida": 2,
+            "time_mandante": "VAS",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "17": {
+            "idPartida": 2,
+            "time_mandante": "GOI",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "18": {
+            "idPartida": 2,
+            "time_mandante": "SAN",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "19": {
+            "idPartida": 2,
+            "time_mandante": "BOT",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "20": {
+            "idPartida": 3,
+            "time_mandante": "PAL",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "21": {
+            "idPartida": 3,
+            "time_mandante": "VAS",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "22": {
+            "idPartida": 3,
+            "time_mandante": "CEA",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "23": {
+            "idPartida": 3,
+            "time_mandante": "CHA",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "24": {
+            "idPartida": 3,
+            "time_mandante": "CRU",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "25": {
+            "idPartida": 3,
+            "time_mandante": "SAO",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "26": {
+            "idPartida": 3,
+            "time_mandante": "BOT",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "27": {
+            "idPartida": 3,
+            "time_mandante": "CSA",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "28": {
+            "idPartida": 3,
+            "time_mandante": "GRE",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "29": {
+            "idPartida": 3,
+            "time_mandante": "BAH",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "30": {
+            "idPartida": 4,
+            "time_mandante": "FLU",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "31": {
+            "idPartida": 4,
+            "time_mandante": "COR",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "32": {
+            "idPartida": 4,
+            "time_mandante": "GOI",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "33": {
+            "idPartida": 4,
+            "time_mandante": "FLA",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "34": {
+            "idPartida": 4,
+            "time_mandante": "INT",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "35": {
+            "idPartida": 4,
+            "time_mandante": "CAM",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "36": {
+            "idPartida": 4,
+            "time_mandante": "SAN",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "37": {
+            "idPartida": 4,
+            "time_mandante": "FOR",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "38": {
+            "idPartida": 4,
+            "time_mandante": "AVA",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "39": {
+            "idPartida": 4,
+            "time_mandante": "CAP",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "40": {
+            "idPartida": 5,
+            "time_mandante": "FLU",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "41": {
+            "idPartida": 5,
+            "time_mandante": "CAM",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "42": {
+            "idPartida": 5,
+            "time_mandante": "PAL",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "43": {
+            "idPartida": 5,
+            "time_mandante": "CHA",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "44": {
+            "idPartida": 5,
+            "time_mandante": "SAO",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "45": {
+            "idPartida": 5,
+            "time_mandante": "INT",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "46": {
+            "idPartida": 5,
+            "time_mandante": "CAP",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "47": {
+            "idPartida": 5,
+            "time_mandante": "CEA",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "48": {
+            "idPartida": 5,
+            "time_mandante": "VAS",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "49": {
+            "idPartida": 5,
+            "time_mandante": "GOI",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "50": {
+            "idPartida": 6,
+            "time_mandante": "FOR",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "51": {
+            "idPartida": 6,
+            "time_mandante": "BOT",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "52": {
+            "idPartida": 6,
+            "time_mandante": "COR",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "53": {
+            "idPartida": 6,
+            "time_mandante": "AVA",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "54": {
+            "idPartida": 6,
+            "time_mandante": "GRE",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "55": {
+            "idPartida": 6,
+            "time_mandante": "SAN",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "56": {
+            "idPartida": 6,
+            "time_mandante": "FLA",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "57": {
+            "idPartida": 6,
+            "time_mandante": "CRU",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "58": {
+            "idPartida": 6,
+            "time_mandante": "BAH",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "59": {
+            "idPartida": 6,
+            "time_mandante": "CSA",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "60": {
+            "idPartida": 7,
+            "time_mandante": "BAH",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "61": {
+            "idPartida": 7,
+            "time_mandante": "FLA",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "62": {
+            "idPartida": 7,
+            "time_mandante": "COR",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "63": {
+            "idPartida": 7,
+            "time_mandante": "BOT",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "64": {
+            "idPartida": 7,
+            "time_mandante": "CEA",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "65": {
+            "idPartida": 7,
+            "time_mandante": "SAO",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "66": {
+            "idPartida": 7,
+            "time_mandante": "CHA",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "67": {
+            "idPartida": 7,
+            "time_mandante": "CAP",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "68": {
+            "idPartida": 7,
+            "time_mandante": "INT",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "69": {
+            "idPartida": 7,
+            "time_mandante": "CAM",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "70": {
+            "idPartida": 8,
+            "time_mandante": "CEA",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "71": {
+            "idPartida": 8,
+            "time_mandante": "SAN",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "72": {
+            "idPartida": 8,
+            "time_mandante": "GRE",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "73": {
+            "idPartida": 8,
+            "time_mandante": "PAL",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "74": {
+            "idPartida": 8,
+            "time_mandante": "FLU",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "75": {
+            "idPartida": 8,
+            "time_mandante": "AVA",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "76": {
+            "idPartida": 8,
+            "time_mandante": "CRU",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "77": {
+            "idPartida": 8,
+            "time_mandante": "VAS",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "78": {
+            "idPartida": 8,
+            "time_mandante": "CSA",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "79": {
+            "idPartida": 8,
+            "time_mandante": "GOI",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "80": {
+            "idPartida": 9,
+            "time_mandante": "BOT",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "81": {
+            "idPartida": 9,
+            "time_mandante": "FOR",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "82": {
+            "idPartida": 9,
+            "time_mandante": "INT",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "83": {
+            "idPartida": 9,
+            "time_mandante": "SAN",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "84": {
+            "idPartida": 9,
+            "time_mandante": "CSA",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "85": {
+            "idPartida": 9,
+            "time_mandante": "VAS",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "86": {
+            "idPartida": 9,
+            "time_mandante": "CAM",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "87": {
+            "idPartida": 9,
+            "time_mandante": "PAL",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "88": {
+            "idPartida": 9,
+            "time_mandante": "GOI",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "89": {
+            "idPartida": 9,
+            "time_mandante": "CHA",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "90": {
+            "idPartida": 10,
+            "time_mandante": "GRE",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "91": {
+            "idPartida": 10,
+            "time_mandante": "CRU",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "92": {
+            "idPartida": 10,
+            "time_mandante": "FOR",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "93": {
+            "idPartida": 10,
+            "time_mandante": "COR",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "94": {
+            "idPartida": 10,
+            "time_mandante": "SAO",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "95": {
+            "idPartida": 10,
+            "time_mandante": "FLA",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "96": {
+            "idPartida": 10,
+            "time_mandante": "FLU",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "97": {
+            "idPartida": 10,
+            "time_mandante": "CHA",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "98": {
+            "idPartida": 10,
+            "time_mandante": "BAH",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "99": {
+            "idPartida": 10,
+            "time_mandante": "CAP",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "100": {
+            "idPartida": 11,
+            "time_mandante": "INT",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "101": {
+            "idPartida": 11,
+            "time_mandante": "CAM",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "102": {
+            "idPartida": 11,
+            "time_mandante": "CEA",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "103": {
+            "idPartida": 11,
+            "time_mandante": "COR",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "104": {
+            "idPartida": 11,
+            "time_mandante": "SAO",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "105": {
+            "idPartida": 11,
+            "time_mandante": "VAS",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "106": {
+            "idPartida": 11,
+            "time_mandante": "BOT",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "107": {
+            "idPartida": 11,
+            "time_mandante": "AVA",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "108": {
+            "idPartida": 11,
+            "time_mandante": "BAH",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "109": {
+            "idPartida": 11,
+            "time_mandante": "CSA",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "110": {
+            "idPartida": 12,
+            "time_mandante": "INT",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "111": {
+            "idPartida": 12,
+            "time_mandante": "CRU",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "112": {
+            "idPartida": 12,
+            "time_mandante": "FOR",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "113": {
+            "idPartida": 12,
+            "time_mandante": "PAL",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "114": {
+            "idPartida": 12,
+            "time_mandante": "SAN",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "115": {
+            "idPartida": 12,
+            "time_mandante": "FLA",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "116": {
+            "idPartida": 12,
+            "time_mandante": "FLU",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "117": {
+            "idPartida": 12,
+            "time_mandante": "CHA",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "118": {
+            "idPartida": 12,
+            "time_mandante": "GOI",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "119": {
+            "idPartida": 12,
+            "time_mandante": "CSA",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "120": {
+            "idPartida": 13,
+            "time_mandante": "GRE",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "121": {
+            "idPartida": 13,
+            "time_mandante": "CAM",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "122": {
+            "idPartida": 13,
+            "time_mandante": "CEA",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "123": {
+            "idPartida": 13,
+            "time_mandante": "COR",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "124": {
+            "idPartida": 13,
+            "time_mandante": "SAN",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "125": {
+            "idPartida": 13,
+            "time_mandante": "VAS",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "126": {
+            "idPartida": 13,
+            "time_mandante": "FLU",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "127": {
+            "idPartida": 13,
+            "time_mandante": "AVA",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "128": {
+            "idPartida": 13,
+            "time_mandante": "BAH",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "129": {
+            "idPartida": 13,
+            "time_mandante": "CAP",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "130": {
+            "idPartida": 14,
+            "time_mandante": "INT",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "131": {
+            "idPartida": 14,
+            "time_mandante": "CAM",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "132": {
+            "idPartida": 14,
+            "time_mandante": "CEA",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "133": {
+            "idPartida": 14,
+            "time_mandante": "PAL",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "134": {
+            "idPartida": 14,
+            "time_mandante": "SAO",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "135": {
+            "idPartida": 14,
+            "time_mandante": "FLA",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "136": {
+            "idPartida": 14,
+            "time_mandante": "BOT",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "137": {
+            "idPartida": 14,
+            "time_mandante": "AVA",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "138": {
+            "idPartida": 14,
+            "time_mandante": "GOI",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "139": {
+            "idPartida": 14,
+            "time_mandante": "CSA",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "140": {
+            "idPartida": 15,
+            "time_mandante": "GRE",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "141": {
+            "idPartida": 15,
+            "time_mandante": "CRU",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "142": {
+            "idPartida": 15,
+            "time_mandante": "FOR",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "143": {
+            "idPartida": 15,
+            "time_mandante": "COR",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "144": {
+            "idPartida": 15,
+            "time_mandante": "SAO",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "145": {
+            "idPartida": 15,
+            "time_mandante": "VAS",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "146": {
+            "idPartida": 15,
+            "time_mandante": "FLU",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "147": {
+            "idPartida": 15,
+            "time_mandante": "CHA",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "148": {
+            "idPartida": 15,
+            "time_mandante": "BAH",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "149": {
+            "idPartida": 15,
+            "time_mandante": "CAP",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "150": {
+            "idPartida": 16,
+            "time_mandante": "GRE",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "151": {
+            "idPartida": 16,
+            "time_mandante": "CAM",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "152": {
+            "idPartida": 16,
+            "time_mandante": "CEA",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "153": {
+            "idPartida": 16,
+            "time_mandante": "PAL",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "154": {
+            "idPartida": 16,
+            "time_mandante": "SAN",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "155": {
+            "idPartida": 16,
+            "time_mandante": "VAS",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "156": {
+            "idPartida": 16,
+            "time_mandante": "BOT",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "157": {
+            "idPartida": 16,
+            "time_mandante": "AVA",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "158": {
+            "idPartida": 16,
+            "time_mandante": "GOI",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "159": {
+            "idPartida": 16,
+            "time_mandante": "CSA",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "160": {
+            "idPartida": 17,
+            "time_mandante": "INT",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "161": {
+            "idPartida": 17,
+            "time_mandante": "CRU",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "162": {
+            "idPartida": 17,
+            "time_mandante": "FOR",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "163": {
+            "idPartida": 17,
+            "time_mandante": "COR",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "164": {
+            "idPartida": 17,
+            "time_mandante": "SAO",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "165": {
+            "idPartida": 17,
+            "time_mandante": "FLA",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "166": {
+            "idPartida": 17,
+            "time_mandante": "FLU",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "167": {
+            "idPartida": 17,
+            "time_mandante": "CHA",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "168": {
+            "idPartida": 17,
+            "time_mandante": "BAH",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "169": {
+            "idPartida": 17,
+            "time_mandante": "CAP",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "170": {
+            "idPartida": 18,
+            "time_mandante": "INT",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "171": {
+            "idPartida": 18,
+            "time_mandante": "CRU",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "172": {
+            "idPartida": 18,
+            "time_mandante": "FOR",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "173": {
+            "idPartida": 18,
+            "time_mandante": "COR",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "174": {
+            "idPartida": 18,
+            "time_mandante": "SAN",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "175": {
+            "idPartida": 18,
+            "time_mandante": "VAS",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "176": {
+            "idPartida": 18,
+            "time_mandante": "BOT",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "177": {
+            "idPartida": 18,
+            "time_mandante": "AVA",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "178": {
+            "idPartida": 18,
+            "time_mandante": "GOI",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "179": {
+            "idPartida": 18,
+            "time_mandante": "CSA",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "180": {
+            "idPartida": 19,
+            "time_mandante": "GRE",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "181": {
+            "idPartida": 19,
+            "time_mandante": "CAM",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "182": {
+            "idPartida": 19,
+            "time_mandante": "CEA",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "183": {
+            "idPartida": 19,
+            "time_mandante": "PAL",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "184": {
+            "idPartida": 19,
+            "time_mandante": "SAO",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "185": {
+            "idPartida": 19,
+            "time_mandante": "FLA",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "186": {
+            "idPartida": 19,
+            "time_mandante": "FLU",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "187": {
+            "idPartida": 19,
+            "time_mandante": "CHA",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "188": {
+            "idPartida": 19,
+            "time_mandante": "BAH",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "189": {
+            "idPartida": 19,
+            "time_mandante": "CAP",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "190": {
+            "idPartida": 20,
+            "time_mandante": "INT",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "191": {
+            "idPartida": 20,
+            "time_mandante": "CRU",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "192": {
+            "idPartida": 20,
+            "time_mandante": "FOR",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "193": {
+            "idPartida": 20,
+            "time_mandante": "COR",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "194": {
+            "idPartida": 20,
+            "time_mandante": "SAN",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "195": {
+            "idPartida": 20,
+            "time_mandante": "VAS",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "196": {
+            "idPartida": 20,
+            "time_mandante": "BOT",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "197": {
+            "idPartida": 20,
+            "time_mandante": "AVA",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "198": {
+            "idPartida": 20,
+            "time_mandante": "GOI",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "199": {
+            "idPartida": 20,
+            "time_mandante": "CSA",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "200": {
+            "idPartida": 21,
+            "time_mandante": "GRE",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "201": {
+            "idPartida": 21,
+            "time_mandante": "CAM",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "202": {
+            "idPartida": 21,
+            "time_mandante": "CEA",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "203": {
+            "idPartida": 21,
+            "time_mandante": "PAL",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "204": {
+            "idPartida": 21,
+            "time_mandante": "SAO",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "205": {
+            "idPartida": 21,
+            "time_mandante": "FLA",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "206": {
+            "idPartida": 21,
+            "time_mandante": "FLU",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "207": {
+            "idPartida": 21,
+            "time_mandante": "CHA",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "208": {
+            "idPartida": 21,
+            "time_mandante": "BAH",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "209": {
+            "idPartida": 21,
+            "time_mandante": "CAP",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "210": {
+            "idPartida": 22,
+            "time_mandante": "INT",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "211": {
+            "idPartida": 22,
+            "time_mandante": "CAM",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "212": {
+            "idPartida": 22,
+            "time_mandante": "FOR",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "213": {
+            "idPartida": 22,
+            "time_mandante": "COR",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "214": {
+            "idPartida": 22,
+            "time_mandante": "SAN",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "215": {
+            "idPartida": 22,
+            "time_mandante": "FLA",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "216": {
+            "idPartida": 22,
+            "time_mandante": "FLU",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "217": {
+            "idPartida": 22,
+            "time_mandante": "AVA",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "218": {
+            "idPartida": 22,
+            "time_mandante": "GOI",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "219": {
+            "idPartida": 22,
+            "time_mandante": "CAP",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "220": {
+            "idPartida": 23,
+            "time_mandante": "GRE",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "221": {
+            "idPartida": 23,
+            "time_mandante": "CRU",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "222": {
+            "idPartida": 23,
+            "time_mandante": "CEA",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "223": {
+            "idPartida": 23,
+            "time_mandante": "PAL",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "224": {
+            "idPartida": 23,
+            "time_mandante": "SAO",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "225": {
+            "idPartida": 23,
+            "time_mandante": "VAS",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "226": {
+            "idPartida": 23,
+            "time_mandante": "BOT",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "227": {
+            "idPartida": 23,
+            "time_mandante": "CHA",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "228": {
+            "idPartida": 23,
+            "time_mandante": "BAH",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "229": {
+            "idPartida": 23,
+            "time_mandante": "CSA",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "230": {
+            "idPartida": 24,
+            "time_mandante": "GRE",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "231": {
+            "idPartida": 24,
+            "time_mandante": "CRU",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "232": {
+            "idPartida": 24,
+            "time_mandante": "FOR",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "233": {
+            "idPartida": 24,
+            "time_mandante": "COR",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "234": {
+            "idPartida": 24,
+            "time_mandante": "SAN",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "235": {
+            "idPartida": 24,
+            "time_mandante": "FLA",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "236": {
+            "idPartida": 24,
+            "time_mandante": "BOT",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "237": {
+            "idPartida": 24,
+            "time_mandante": "AVA",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "238": {
+            "idPartida": 24,
+            "time_mandante": "BAH",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "239": {
+            "idPartida": 24,
+            "time_mandante": "CSA",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "240": {
+            "idPartida": 25,
+            "time_mandante": "INT",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "241": {
+            "idPartida": 25,
+            "time_mandante": "CAM",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "242": {
+            "idPartida": 25,
+            "time_mandante": "CEA",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "243": {
+            "idPartida": 25,
+            "time_mandante": "PAL",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "244": {
+            "idPartida": 25,
+            "time_mandante": "SAO",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "245": {
+            "idPartida": 25,
+            "time_mandante": "VAS",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "246": {
+            "idPartida": 25,
+            "time_mandante": "FLU",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "247": {
+            "idPartida": 25,
+            "time_mandante": "CHA",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "248": {
+            "idPartida": 25,
+            "time_mandante": "GOI",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "249": {
+            "idPartida": 25,
+            "time_mandante": "CAP",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "250": {
+            "idPartida": 26,
+            "time_mandante": "GRE",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "251": {
+            "idPartida": 26,
+            "time_mandante": "CRU",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "252": {
+            "idPartida": 26,
+            "time_mandante": "FOR",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "253": {
+            "idPartida": 26,
+            "time_mandante": "PAL",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "254": {
+            "idPartida": 26,
+            "time_mandante": "SAN",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "255": {
+            "idPartida": 26,
+            "time_mandante": "VAS",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "256": {
+            "idPartida": 26,
+            "time_mandante": "FLU",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "257": {
+            "idPartida": 26,
+            "time_mandante": "AVA",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "258": {
+            "idPartida": 26,
+            "time_mandante": "GOI",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "259": {
+            "idPartida": 26,
+            "time_mandante": "CSA",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "260": {
+            "idPartida": 27,
+            "time_mandante": "INT",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "261": {
+            "idPartida": 27,
+            "time_mandante": "CAM",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "262": {
+            "idPartida": 27,
+            "time_mandante": "FOR",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "263": {
+            "idPartida": 27,
+            "time_mandante": "COR",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "264": {
+            "idPartida": 27,
+            "time_mandante": "SAO",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "265": {
+            "idPartida": 27,
+            "time_mandante": "FLA",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "266": {
+            "idPartida": 27,
+            "time_mandante": "BOT",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "267": {
+            "idPartida": 27,
+            "time_mandante": "CHA",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "268": {
+            "idPartida": 27,
+            "time_mandante": "BAH",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "269": {
+            "idPartida": 27,
+            "time_mandante": "CAP",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "270": {
+            "idPartida": 28,
+            "time_mandante": "GRE",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "271": {
+            "idPartida": 28,
+            "time_mandante": "CRU",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "272": {
+            "idPartida": 28,
+            "time_mandante": "CEA",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "273": {
+            "idPartida": 28,
+            "time_mandante": "COR",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "274": {
+            "idPartida": 28,
+            "time_mandante": "SAO",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "275": {
+            "idPartida": 28,
+            "time_mandante": "FLA",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "276": {
+            "idPartida": 28,
+            "time_mandante": "FLU",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "277": {
+            "idPartida": 28,
+            "time_mandante": "AVA",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "278": {
+            "idPartida": 28,
+            "time_mandante": "BAH",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "279": {
+            "idPartida": 28,
+            "time_mandante": "CAP",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "280": {
+            "idPartida": 29,
+            "time_mandante": "INT",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "281": {
+            "idPartida": 29,
+            "time_mandante": "CAM",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "282": {
+            "idPartida": 29,
+            "time_mandante": "CEA",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "283": {
+            "idPartida": 29,
+            "time_mandante": "PAL",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "284": {
+            "idPartida": 29,
+            "time_mandante": "SAN",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "285": {
+            "idPartida": 29,
+            "time_mandante": "VAS",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "286": {
+            "idPartida": 29,
+            "time_mandante": "BOT",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "287": {
+            "idPartida": 29,
+            "time_mandante": "AVA",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "288": {
+            "idPartida": 29,
+            "time_mandante": "GOI",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "289": {
+            "idPartida": 29,
+            "time_mandante": "CSA",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "290": {
+            "idPartida": 30,
+            "time_mandante": "GRE",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "291": {
+            "idPartida": 30,
+            "time_mandante": "CRU",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "292": {
+            "idPartida": 30,
+            "time_mandante": "FOR",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "293": {
+            "idPartida": 30,
+            "time_mandante": "PAL",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "294": {
+            "idPartida": 30,
+            "time_mandante": "SAN",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "295": {
+            "idPartida": 30,
+            "time_mandante": "FLA",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "296": {
+            "idPartida": 30,
+            "time_mandante": "FLU",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "297": {
+            "idPartida": 30,
+            "time_mandante": "CHA",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "298": {
+            "idPartida": 30,
+            "time_mandante": "GOI",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "299": {
+            "idPartida": 30,
+            "time_mandante": "CAP",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "300": {
+            "idPartida": 31,
+            "time_mandante": "GRE",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "301": {
+            "idPartida": 31,
+            "time_mandante": "CAM",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "302": {
+            "idPartida": 31,
+            "time_mandante": "CEA",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "303": {
+            "idPartida": 31,
+            "time_mandante": "COR",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "304": {
+            "idPartida": 31,
+            "time_mandante": "SAO",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "305": {
+            "idPartida": 31,
+            "time_mandante": "VAS",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "306": {
+            "idPartida": 31,
+            "time_mandante": "BOT",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "307": {
+            "idPartida": 31,
+            "time_mandante": "AVA",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "308": {
+            "idPartida": 31,
+            "time_mandante": "BAH",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "309": {
+            "idPartida": 31,
+            "time_mandante": "CAP",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "310": {
+            "idPartida": 32,
+            "time_mandante": "INT",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "311": {
+            "idPartida": 32,
+            "time_mandante": "CRU",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "312": {
+            "idPartida": 32,
+            "time_mandante": "FOR",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "313": {
+            "idPartida": 32,
+            "time_mandante": "PAL",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "314": {
+            "idPartida": 32,
+            "time_mandante": "SAO",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "315": {
+            "idPartida": 32,
+            "time_mandante": "FLA",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "316": {
+            "idPartida": 32,
+            "time_mandante": "BOT",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "317": {
+            "idPartida": 32,
+            "time_mandante": "CHA",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "318": {
+            "idPartida": 32,
+            "time_mandante": "GOI",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "319": {
+            "idPartida": 32,
+            "time_mandante": "CSA",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "320": {
+            "idPartida": 33,
+            "time_mandante": "GRE",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "321": {
+            "idPartida": 33,
+            "time_mandante": "CRU",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "322": {
+            "idPartida": 33,
+            "time_mandante": "FOR",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "323": {
+            "idPartida": 33,
+            "time_mandante": "COR",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "324": {
+            "idPartida": 33,
+            "time_mandante": "SAN",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "325": {
+            "idPartida": 33,
+            "time_mandante": "VAS",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "326": {
+            "idPartida": 33,
+            "time_mandante": "FLU",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "327": {
+            "idPartida": 33,
+            "time_mandante": "CHA",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "328": {
+            "idPartida": 33,
+            "time_mandante": "BAH",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "329": {
+            "idPartida": 33,
+            "time_mandante": "CAP",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "330": {
+            "idPartida": 34,
+            "time_mandante": "INT",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "331": {
+            "idPartida": 34,
+            "time_mandante": "CAM",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "332": {
+            "idPartida": 34,
+            "time_mandante": "CEA",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "333": {
+            "idPartida": 34,
+            "time_mandante": "PAL",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "334": {
+            "idPartida": 34,
+            "time_mandante": "SAN",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "335": {
+            "idPartida": 34,
+            "time_mandante": "FLA",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "336": {
+            "idPartida": 34,
+            "time_mandante": "BOT",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "337": {
+            "idPartida": 34,
+            "time_mandante": "AVA",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "338": {
+            "idPartida": 34,
+            "time_mandante": "GOI",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "339": {
+            "idPartida": 34,
+            "time_mandante": "CSA",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "340": {
+            "idPartida": 35,
+            "time_mandante": "INT",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "341": {
+            "idPartida": 35,
+            "time_mandante": "CRU",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "342": {
+            "idPartida": 35,
+            "time_mandante": "FOR",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "343": {
+            "idPartida": 35,
+            "time_mandante": "COR",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "344": {
+            "idPartida": 35,
+            "time_mandante": "SAO",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "345": {
+            "idPartida": 35,
+            "time_mandante": "FLA",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "346": {
+            "idPartida": 35,
+            "time_mandante": "FLU",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "347": {
+            "idPartida": 35,
+            "time_mandante": "CHA",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "348": {
+            "idPartida": 35,
+            "time_mandante": "BAH",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "349": {
+            "idPartida": 35,
+            "time_mandante": "CAP",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "350": {
+            "idPartida": 36,
+            "time_mandante": "GRE",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "351": {
+            "idPartida": 36,
+            "time_mandante": "CAM",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "352": {
+            "idPartida": 36,
+            "time_mandante": "CEA",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "353": {
+            "idPartida": 36,
+            "time_mandante": "PAL",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "354": {
+            "idPartida": 36,
+            "time_mandante": "SAN",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "355": {
+            "idPartida": 36,
+            "time_mandante": "VAS",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "356": {
+            "idPartida": 36,
+            "time_mandante": "BOT",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "357": {
+            "idPartida": 36,
+            "time_mandante": "AVA",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "358": {
+            "idPartida": 36,
+            "time_mandante": "GOI",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "359": {
+            "idPartida": 36,
+            "time_mandante": "CSA",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "360": {
+            "idPartida": 37,
+            "time_mandante": "GRE",
+            "time_visitante": "CRU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "361": {
+            "idPartida": 37,
+            "time_mandante": "CAM",
+            "time_visitante": "BOT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "362": {
+            "idPartida": 37,
+            "time_mandante": "CEA",
+            "time_visitante": "COR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "363": {
+            "idPartida": 37,
+            "time_mandante": "PAL",
+            "time_visitante": "GOI",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "364": {
+            "idPartida": 37,
+            "time_mandante": "SAO",
+            "time_visitante": "INT",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "365": {
+            "idPartida": 37,
+            "time_mandante": "FLA",
+            "time_visitante": "AVA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "366": {
+            "idPartida": 37,
+            "time_mandante": "FLU",
+            "time_visitante": "FOR",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "367": {
+            "idPartida": 37,
+            "time_mandante": "CHA",
+            "time_visitante": "CSA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "368": {
+            "idPartida": 37,
+            "time_mandante": "BAH",
+            "time_visitante": "VAS",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "369": {
+            "idPartida": 37,
+            "time_mandante": "CAP",
+            "time_visitante": "SAN",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "370": {
+            "idPartida": 38,
+            "time_mandante": "INT",
+            "time_visitante": "CAM",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "371": {
+            "idPartida": 38,
+            "time_mandante": "CRU",
+            "time_visitante": "PAL",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "372": {
+            "idPartida": 38,
+            "time_mandante": "FOR",
+            "time_visitante": "BAH",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "373": {
+            "idPartida": 38,
+            "time_mandante": "COR",
+            "time_visitante": "FLU",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "374": {
+            "idPartida": 38,
+            "time_mandante": "SAN",
+            "time_visitante": "FLA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "375": {
+            "idPartida": 38,
+            "time_mandante": "VAS",
+            "time_visitante": "CHA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "376": {
+            "idPartida": 38,
+            "time_mandante": "BOT",
+            "time_visitante": "CEA",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "377": {
+            "idPartida": 38,
+            "time_mandante": "AVA",
+            "time_visitante": "CAP",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "378": {
+            "idPartida": 38,
+            "time_mandante": "GOI",
+            "time_visitante": "GRE",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        },
+        "379": {
+            "idPartida": 38,
+            "time_mandante": "CSA",
+            "time_visitante": "SAO",
+            "placar_time_mandante": "",
+            "placar_time_visitante": "",
+            "foiJogado": false
+        }
+    }
+}
