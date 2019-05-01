@@ -2,8 +2,8 @@ from selenium import webdriver
 import time, json
 
 data = {}
-equipes = {}
-partidas = {}
+equipes = []
+partidas = []
 countTimes = 1
 countRodadas = 0
 
@@ -45,11 +45,10 @@ for listaRodadas in range(0,38):
 			time.sleep(2)
 
 		# Processamento das partidas
-		partidas[countRodadas] = {'idPartida': listaRodadas+1, 'time_mandante': time_mandante.text, 
+		partidas.append({'idPartida': listaRodadas+1, 'time_mandante': time_mandante.text, 
 		'time_visitante': time_visitante.text, 'placar_time_mandante': placar_mandante.text,
-		'placar_time_visitante': placar_visitante.text, 'foiJogado': placar_mandante.text != '' }
+		'placar_time_visitante': placar_visitante.text, 'foiJogado': placar_mandante.text != '' })
 
-		countRodadas = countRodadas + 1
 
 		time.sleep(1)
 
@@ -62,7 +61,6 @@ data['equipes'] = equipes
 data['partidas'] = partidas
 
 # Escrevendo json em arquivo
-json_data = json.dumps(data)
 with open('data.json', 'w', encoding='utf8') as json_file:
     json.dump(data, json_file, ensure_ascii=False, indent=4)
 
